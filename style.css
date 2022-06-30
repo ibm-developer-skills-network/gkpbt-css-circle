@@ -1,5 +1,5 @@
-.blue {
-    background-color:blue
+.red {
+    background-color:rgb(255, 0, 0)
 }
 .circle{
     border-radius:50%;
