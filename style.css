@@ -3,6 +3,7 @@
 }
 .circle{
 			border-radius:50%;
-			width:300px;
-			height:300px;
+			width:500px;   /*300*/
+			height:500px;  /*300*/
+                      /* change window dimension @ak 070722 */
 }
