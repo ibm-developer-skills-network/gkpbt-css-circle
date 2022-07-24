@@ -1,0 +1,6 @@
+Adding a "browser-support.txt" file
+-----------------------------------
+
+Supported Browsers "Chrome, Firefox, Edge"
+.
+
