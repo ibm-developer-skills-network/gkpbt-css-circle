@@ -1,0 +1,8 @@
+.blue {
+            background-color:blue
+}
+.circle{
+            border-radius:50%;
+            width:500;
+            height:500px;
+}
