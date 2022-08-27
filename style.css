@@ -8,6 +8,6 @@
 	height: 500px;
 }
 
-h1 {
-	font-size: large;
+.red {
+	background-color: red
 }
