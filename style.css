@@ -1,5 +1,5 @@
 .blue {
-			background-color:blue
+			background: linear-gradient(to left,#0c9696, #333 30%, #00ffff 75%, #0c9696);
 }
 .circle{
 			border-radius:50%;
