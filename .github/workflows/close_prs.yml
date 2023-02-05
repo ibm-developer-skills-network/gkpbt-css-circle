@@ -10,5 +10,5 @@ jobs:
     steps:
     - uses: superbrothers/close-pull-request@v3
       with:
-        # Optional. Post a issue comment just before closing a pull request.
+        # Optional. Post a issue comment just before  a pull request.
         comment: "Congratulations! You have completed the lab. Closing for maintainence purpose."
