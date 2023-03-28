@@ -6,3 +6,11 @@
 			width:500px;
 			height:500px;
 }
+.green {
+            background-color: green;
+}
+.circle6{
+            border-radius:50%;
+            width:700px;
+            height:700px;
+}
