@@ -1,3 +1,9 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
 .red {
 			background-color:red;
 }
@@ -6,3 +12,4 @@
 			width:500;
 			height:500px;
 }
+
