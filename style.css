@@ -1,8 +1,12 @@
 .blue {
-			background-color:blue
+			background-color:blue;
 }
 .circle{
 			border-radius:50%;
 			width:500px;
 			height:500px;
+}
+
+.red{
+    background-color: red;
 }
