@@ -6,3 +6,5 @@
 			width:500px;
 			height:500px;
 }
+name=["Yellow","Green","Red","Pink"]
+print(len(name))
