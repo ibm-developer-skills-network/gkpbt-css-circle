@@ -5,4 +5,16 @@
 			border-radius:50%;
 			width:300px;
 			height:300px;
+			position: relative;
+}
+
+.red-circle {
+	background-color: red;
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform:translate(-50%, -50%);;
 }
