@@ -1,5 +1,6 @@
 .blue {
-			background: linear-gradient(red, blue)
+			background: radial-gradient(red, rgb(250, 77, 250))
+            
 }
 .circle{
 			border-radius:50%;
