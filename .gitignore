@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.vscode/settings.json
+
+# %system%
+%System%VSCode%projects%ibm_full_stack_developer%gkpbt-css-circle
