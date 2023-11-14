@@ -8,3 +8,9 @@
 	height: 500px;
 
 }
+.circle:hover{
+	background-color: red;
+	width: 700px;
+	opacity: 0.5s ease;
+
+}
