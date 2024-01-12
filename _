@@ -1,0 +1,13 @@
+diff --git a/style.css b/style.css
+index b1a4e3b..e5b7463 100644
+--- a/style.css
++++ b/style.css
+@@ -3,6 +3,6 @@
+ }
+ .circle{
+ 			border-radius:50%;
+-			width:300px;
+-			height:300px;
++			width:500px;
++			height:500px;
+ }
