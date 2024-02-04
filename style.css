@@ -1,8 +1,21 @@
+body {
+    background-color: whitesmoke;
+    padding: 60px;
+}
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: navy;
+    text-align: center;
+}
+div {
+    align-self: center;
+}
 .blue {
-			background-color:blue
+			background-color: skyblue;
 }
 .circle{
 			border-radius:50%;
-			width:500px;
-			height:500px;
+            margin: 100px auto;
+			width:200px;
+			height:200px;
 }
