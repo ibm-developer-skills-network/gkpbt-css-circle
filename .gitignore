@@ -6,7 +6,7 @@ __pycache__/
 # C extensions
 *.so
 
-# Distribution / packaging
+# Distribution / packaging  # Here is a new update by <your GitHub username>
 .Python
 build/
 develop-eggs/
