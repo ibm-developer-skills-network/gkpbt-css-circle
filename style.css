@@ -2,6 +2,10 @@
 	background-color: blue
 }
 
+.red {
+	background-color: red
+}
+
 .circle {
 	border-radius: 50%;
 	width: 500px;
