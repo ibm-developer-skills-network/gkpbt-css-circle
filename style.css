@@ -6,3 +6,13 @@
 			width:500px;
 			height:500px;
 }
+
+.red{
+	background-color:red;
+}
+
+.cir{
+	border-radius:50%;
+	width:200px;
+	height:200px;
+}
