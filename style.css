@@ -1,8 +1,12 @@
+:root {
+	--size1: 500px;
+}
+
 .blue {
 			background-color:blue
 }
 .circle{
 			border-radius:50%;
-			width:300px;
-			height:300px;
+			width:var(--size1);
+			height:var(--size1);
 }
