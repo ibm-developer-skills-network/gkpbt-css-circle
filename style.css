@@ -1,7 +1,9 @@
 :root {
 	--size1: 500px;
 }
-
+.red {
+	background-color:red
+ }
 .blue {
 			background-color:blue
 }
