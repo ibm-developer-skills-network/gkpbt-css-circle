@@ -1,8 +1,8 @@
 .blue {
-			background-color:blue
+			background-color:rgb(250, 0, 117)
 }
 .circle{
 			border-radius:50%;
-			width:300px;
+			width:600px;
 			height:300px;
 }
