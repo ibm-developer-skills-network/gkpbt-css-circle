@@ -1,5 +1,12 @@
+:root{
+	--first: #0052D4;
+	--second: #4364F7;
+	--third: #6FB1FC;
+	--fourth: #00FF87;
+
+}
 .blue {
-			background-color:blue
+			background: linear-gradient(132deg, var(--first) 0%, var(--second) 25%, var(--third) 60%, var(--fourth) 85%)
 }
 .circle{
 			border-radius:50%;
