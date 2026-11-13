@@ -16,3 +16,22 @@
 			top: 75px;
 			left: 75px;
 }
+
+.red {
+			background-color:red
+}
+.black {
+			background-color:black
+}
+.circle{
+			border-radius:50%;
+			width:300px;
+			height:300px;
+}
+.circle > .black{
+			width:150px;
+			height:150px;
+			position: relative;
+			top: 75px;
+			left: 75px;
+}
